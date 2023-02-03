@@ -1,0 +1,3 @@
+# -Restaurant-Management-System-using-C-
+Basic Semester Project using C++  Restaurant Management system
+This is a C++ code for a restaurant management system. It contains structures for customers, menu items, payments, and accounts. The code has functions for adding and removing customers, payments, and menu items, as well as for retrieving information about customers, accounts, and menu items. The customers, menu items, payments, and accounts data are stored in vectors. The addPayment function updates the balance of the relevant account when a payment is made. The main function adds two example customers to demonstrate the functionality of the code.
